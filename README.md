@@ -1,3 +1,3 @@
 # English4Designer
 
-(draft, for now)[01-one-word.md]
+(draft)[01-one-word.md]
