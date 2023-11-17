@@ -1,4 +1,5 @@
-### Hello, its me
+### Hello! Again!
 
 
-[draft for now](01-one-word.md)
+[01-one-word](/01-one-word/01-one-word.md)
+[02-first-impression](/02-first-impression/02-first-impression.md)
