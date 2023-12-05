@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "02-first-impression/02-first-impression.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "02-first-impression/02-first-impression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "02-first-impression/02-first-impression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "02-first-impression/02-first-impression.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "0743476b13efc604",
   "lastOpenFiles": [
+    "index.md",
     "README.md",
     "02-first-impression/02-first-impression.md",
-    "index.md",
     "02-first-impression/static/ps.jpg",
     "02-first-impression/static/me.jpg"
   ]
