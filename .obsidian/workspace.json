@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-first-impression/02-first-impression.md",
+                "file": "03-content-first.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-first-impression/02-first-impression.md",
+                "file": "03-content-first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-first-impression/02-first-impression.md",
+                "file": "03-content-first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-first-impression/02-first-impression.md"
+                "file": "03-content-first.md"
               }
             }
           }
@@ -146,12 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0743476b13efc604",
+  "active": "300a9d169401f2e6",
   "lastOpenFiles": [
-    "index.md",
+    "Index.md",
     "README.md",
+    "01-one-word/01-one-word.md",
+    "02-first-impression/static/Artboard 1.png",
+    "03-content-first.md",
     "02-first-impression/02-first-impression.md",
-    "02-first-impression/static/ps.jpg",
-    "02-first-impression/static/me.jpg"
+    "02-first-impression/Video/KNYY_NowOrNever_Scene25_v02_03_comp_behance-Apple Devices 4K.mp4",
+    "02-first-impression/static/pasted-image.png",
+    "KNYY_NowOrNever_Scene25_v02_03_comp_behance-Apple Devices 4K.m4v",
+    "pasted-image.tiff",
+    "02-first-impression/static/KNYY_â_Fantasy_(Trailer).mp4",
+    "02-first-impression/Video/Frantisek Josef - Trailer.mp4",
+    "02-first-impression/static/IMG_2141.jpg",
+    "02-first-impression/static/IMG_3857.jpeg",
+    "02-first-impression/Video/IMG_3879.mp4",
+    "02-first-impression/Video",
+    "02-first-impression/Video/IMG_3879.mov",
+    "02-first-impression/static/me.jpg",
+    "02-first-impression/static/ps.jpg"
   ]
 }
