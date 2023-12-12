@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-content-first.md",
+                "file": "02-first-impression/02-first-impression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e164f931c97004c8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e710fea7087979b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-content-first.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-content-first.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-content-first.md"
+                "file": "Index.md"
               }
             }
           }
@@ -146,14 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "300a9d169401f2e6",
+  "active": "e710fea7087979b7",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2023-12-12.md",
+    "02-first-impression/02-first-impression.md",
+    "03-content-first.md",
     "Index.md",
     "README.md",
     "01-one-word/01-one-word.md",
     "02-first-impression/static/Artboard 1.png",
-    "03-content-first.md",
-    "02-first-impression/02-first-impression.md",
     "02-first-impression/Video/KNYY_NowOrNever_Scene25_v02_03_comp_behance-Apple Devices 4K.mp4",
     "02-first-impression/static/pasted-image.png",
     "KNYY_NowOrNever_Scene25_v02_03_comp_behance-Apple Devices 4K.m4v",

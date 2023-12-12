@@ -2,9 +2,14 @@
 
 > **!Warning:** work on this page is only for presentation purpose
 
+
+### Hi! My name is Jiří Krblich and I'm generalist in visual design!
+
 ![[static/me.jpg]]
 
-Hi! My name is Jiří Krblich and I'm generalist in visual design, but mainly graphic & motion designer for multimedia projects like movie, commercials or television.
+... but mainly graphic & motion designer for multimedia projects like movie, commercials or television.
+
+But what it means? 
 
 ### How I started?
 
