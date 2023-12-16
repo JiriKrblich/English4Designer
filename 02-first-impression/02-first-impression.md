@@ -54,6 +54,7 @@ This is a project we are creating together with the Czech School without Borders
 ![Short documentary WW2 film for Czech embassy in London about Josef František in collaboration with Czech School](/Video/Frantisek_Josef_-_Trailer.mp4)
 *Short documentary WW2 film for Czech embassy in London about Josef František in collaboration with Czech School*
 
+---
 ### Fantasy (music video)
 
 Back in the days when AI was an unfamiliar concept I had already tried it and due to time and financial constraints I decided to use it to create illustrations for the animated music video *Fantasy.*
@@ -61,15 +62,16 @@ Back in the days when AI was an unfamiliar concept I had already tried it and du
 
 ![AI generated music video Fantasy for musician KNYY](/Video/fantasy.mp4)
 
+---
 ### Now or Never (music video)
 
 Sometimes I simply experiment, in this example of my work I also use hand as the main actor in a music video that moves the whole world. And as in my other works, I combine practical and visual effects.
 ![BTS of the Music video Now or Never](/static/pasted-image.png)
 *BTS of the music video* Now or Never by KNYY
 
-
 ![One of the scenes in final music ](video/Video/KNYY_NowOrNever_Scene25_v02_03_comp_behance-Apple_Devices_4K.mp4)*One of the scenes in final music video* 
 
+---
 ### Mluvka (custom typeface)
 
 Are these projects too boring? I agree! I get bored sometimes too. That's why in my spare time I'm developing my own font called Mluvka. In Czech, a Mluvka is someone who talks too much...
@@ -77,6 +79,8 @@ Are these projects too boring? I agree! I get bored sometimes too. That's why in
 The point of this font was simple, to create a font that I can use in animations without having to pay for expensive special video licenses.
 
 ![Specimen of Mluvka Typeface, developed by me](/static/Artboard1.png)
+
+---
 ### TV
 
 And where you can see Mluvka? For example in the TV show called *Extraktoři (Bonus)*  by TV Nova where I did VFX and motion design too!
