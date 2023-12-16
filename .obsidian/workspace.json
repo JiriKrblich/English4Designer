@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e164f931c97004c8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e710fea7087979b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "02-first-impression/02-first-impression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "02-first-impression/02-first-impression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "02-first-impression/02-first-impression.md"
               }
             }
           }
@@ -167,12 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e710fea7087979b7",
+  "active": "0743476b13efc604",
   "lastOpenFiles": [
+    "02-first-impression/static/IMG_1731.jpg",
+    "02-first-impression/02-first-impression.md",
+    "02-first-impression/presentation/~$02_presentation_AJ_Krblich.pptx",
+    "02_presentation_AJ_Krblich.key.md",
+    "02-first-impression/presentation/02_presentation_AJ_Krblich.pptx",
+    "02-first-impression/presentation",
+    "02-first-impression/untitled folder",
+    "02_presentation_AJ_Krblich.key.sb-a385a2e4-61UvAI",
+    "02_presentation_AJ_Krblich.key",
+    "02-first-impression/02_presentation_AJ_Krblich.key",
+    "03-content-first.md",
+    "index.md",
     "Untitled.md",
     "2023-12-12.md",
-    "02-first-impression/02-first-impression.md",
-    "03-content-first.md",
     "Index.md",
     "README.md",
     "01-one-word/01-one-word.md",
@@ -181,13 +170,8 @@
     "02-first-impression/static/pasted-image.png",
     "KNYY_NowOrNever_Scene25_v02_03_comp_behance-Apple Devices 4K.m4v",
     "pasted-image.tiff",
-    "02-first-impression/static/KNYY_â_Fantasy_(Trailer).mp4",
-    "02-first-impression/Video/Frantisek Josef - Trailer.mp4",
     "02-first-impression/static/IMG_2141.jpg",
     "02-first-impression/static/IMG_3857.jpeg",
-    "02-first-impression/Video/IMG_3879.mp4",
-    "02-first-impression/Video",
-    "02-first-impression/Video/IMG_3879.mov",
     "02-first-impression/static/me.jpg",
     "02-first-impression/static/ps.jpg"
   ]
