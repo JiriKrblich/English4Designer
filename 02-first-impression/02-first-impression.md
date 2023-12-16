@@ -6,8 +6,7 @@
 [offline form of presentation](https://docs.google.com/presentation/d/1OUmfITUkxccNSzLBnFHSptuiKydQFG4B/edit?usp=share_link&ouid=105066854430645324700&rtpof=true&sd=true)
 # Hi! My name is Jiří Krblich and I'm generalist in visual design!
 
-![Photography of me](/02-first-impression/static/me.jpg)
-
+![Photography of me](/static/me.jpg)
 ... but mainly graphic & motion designer for multimedia projects like movie, commercials or brading.
 
 *But what does that actually mean?*
