@@ -81,7 +81,7 @@ The point of this font was simple, to create a font that I can use in animations
 ![Specimen of Mluvka Typeface, developed by me](/static/Artboard1.png)
 
 ---
-### TV
+### Serials
 
 And where you can see Mluvka? For example in the TV show called *Extraktoři (Bonus)*  by TV Nova where I did VFX and motion design too!
 ![Scene from TV show called Extraktori by TV Nova](/Video/EX_05_0091186_v01_01_portfolio.mp4)
