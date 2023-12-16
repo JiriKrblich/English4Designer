@@ -62,7 +62,7 @@ Back in the days when AI was an unfamiliar concept I had already tried it and du
 ---
 ### Now or Never (music video)
 
-Sometimes I simply experiment, in this example of my work I also use hand as the main actor in a music video that moves the whole world. And as in my other works, I combine practical and visual effects.
+Sometimes I simply experiment, in this example of my work I use hand as the main actor in a music video that moves the whole world. And as in my other works, I combine practical and visual effects.
 ![BTS of the Music video Now or Never](/static/pasted-image.png)
 *BTS of the music video* Now or Never by KNYY
 
@@ -71,7 +71,7 @@ Sometimes I simply experiment, in this example of my work I also use hand as the
 ---
 ### Mluvka (custom typeface)
 
-Are these projects too boring? I agree! I get bored sometimes too. That's why in my spare time I'm developing my own font called Mluvka. In Czech, a Mluvka is someone who talks too much...
+Are these projects too boring? I agree! I get bored sometimes too. That's why in my spare time I'm developing my own font called Mluvka. *In Czech, a Mluvka is someone who talks too much...*
 
 The point of this font was simple, to create a font that I can use in animations without having to pay for expensive special video licenses.
 
@@ -80,7 +80,7 @@ The point of this font was simple, to create a font that I can use in animations
 ---
 ### Serials
 
-And where you can see Mluvka? For example in the TV show called *Extraktoři (Bonus)*  by TV Nova where I did VFX and motion design too!
+And where you can see Mluvka? For example in the Serial called *Extraktoři (Bonus)* by TV Nova where I did visual effects and motion design too!
 
 ![Scene from TV show called Extraktori by TV Nova](/Video/EX_05_0091186_v01_01_portfolio.mp4)
 # And that's me! "only" designer!
