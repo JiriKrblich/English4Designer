@@ -31,10 +31,11 @@ Below this text is a example project where we used practical effects and electro
 *This is testing footage of one our product design – The mask(ot) for company called NFToaster*
 
 ![[02-first-impression/static/IMG_2141.jpg]]
-*Our team at Tweakpost and our animatronic Carp who really speaks!*
+*Our team at TWEAK POST and our animatronic Carp who really speaks!*
 
 ### University
-![[/02-first-impression/static/IMG_1731.jpg]]
+
+![behind the scenes of the board game Indigo](/02-first-impression/static/IMG_1731.jpg)
 *behind the scenes of the board game Indigo*
 
 I started studying at VŠKK because I already had some real experience with graphic design and advertising. At the same time I continued to work on commercial projects and advertising campaigns.
