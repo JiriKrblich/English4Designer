@@ -30,7 +30,7 @@ Below this text is a example project where we used practical effects and electro
 ![[/02-first-impression/static/IMG_3857.jpeg]]
 *This is testing footage of one our product design – The mask(ot) for company called NFToaster*
 
-![[/02-first-impression/static/IMG_2141.jpg]]
+![[02-first-impression/static/IMG_2141.jpg]]
 *Our team at Tweakpost and our animatronic Carp who really speaks!*
 
 ### University
