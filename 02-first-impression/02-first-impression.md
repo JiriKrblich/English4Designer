@@ -80,6 +80,6 @@ The point of this font was simple, to create a font that I can use in animations
 ### TV
 
 And where you can see Mluvka? For example in the TV show called *Extraktoři (Bonus)*  by TV Nova where I did VFX and motion design too!
-![Scene from TV show called Extraktori by TV Nova](EX_05_0091186_v01_01_portfolio.mp4)
+![Scene from TV show called Extraktori by TV Nova](/Video/EX_05_0091186_v01_01_portfolio.mp4)
 # And that's me! "only" designer!
 Someone who does a little bit of everything, but most importantly a partner!
