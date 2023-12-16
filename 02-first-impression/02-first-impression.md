@@ -44,7 +44,7 @@ I thought I wouldn't learn anything at school, but I really fell in love with ty
 ---
 ## What about now?
 
-Sadly, our tweak team has split up, so I continue in the practical effects and product design!
+Sadly, our TWEAK team has split up, so I continue in the practical effects and product design!
 
 ### Josef František (short documentary movie)
 
