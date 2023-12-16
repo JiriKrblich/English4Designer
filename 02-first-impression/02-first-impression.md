@@ -24,7 +24,6 @@ At the same time I started doing graphic and motion design at the VFX studio bas
 
 Below this text is a example project where we used practical effects and electronic knowledge to create a mask that projects animated videos, is controllable remotely and acts as a mascot in filmed videos where it replaces CGI.
 
-
 ![This is testing footage of one our product design – The mask(ot) for company called NFToaster](/Video/IMG_3879.mp4)
 ![This is testing footage of one our product design – The mask(ot) for company called NFToaster](/static/IMG_3857.jpeg)
 
@@ -50,7 +49,6 @@ Sadly, our TWEAK team has split up, so I continue in the practical effects and p
 
 This is a project we are creating together with the Czech School without Borders, London. We are trying to bring Czech children a better way of learning than just watching a presentation. We have therefore devised a short animated film using elements of practical and visual effects, along with animated illustrations.
 
-
 ![Short documentary WW2 film for Czech embassy in London about Josef František in collaboration with Czech School](/Video/Frantisek_Josef_-_Trailer.mp4)
 *Short documentary WW2 film for Czech embassy in London about Josef František in collaboration with Czech School*
 
@@ -58,7 +56,6 @@ This is a project we are creating together with the Czech School without Borders
 ### Fantasy (music video)
 
 Back in the days when AI was an unfamiliar concept I had already tried it and due to time and financial constraints I decided to use it to create illustrations for the animated music video *Fantasy.*
-
 
 ![AI generated music video Fantasy for musician KNYY](/Video/fantasy.mp4)
 
@@ -84,6 +81,7 @@ The point of this font was simple, to create a font that I can use in animations
 ### Serials
 
 And where you can see Mluvka? For example in the TV show called *Extraktoři (Bonus)*  by TV Nova where I did VFX and motion design too!
+
 ![Scene from TV show called Extraktori by TV Nova](/Video/EX_05_0091186_v01_01_portfolio.mp4)
 # And that's me! "only" designer!
 Someone who does a little bit of everything, but most importantly a partner!
