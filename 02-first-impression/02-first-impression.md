@@ -6,7 +6,7 @@
 [offline form of presentation](https://docs.google.com/presentation/d/1OUmfITUkxccNSzLBnFHSptuiKydQFG4B/edit?usp=share_link&ouid=105066854430645324700&rtpof=true&sd=true)
 # Hi! My name is Jiří Krblich and I'm generalist in visual design!
 
-![[static/me.jpg]]
+![[/02-first-impression/static/me.jpg]]
 
 ... but mainly graphic & motion designer for multimedia projects like movie, commercials or brading.
 
@@ -16,7 +16,7 @@
 
 It's all started in my 10 when I started learning the basic of Graphic Design with old creative suite on eMac.
 
-![[static/ps.jpg]]
+![[/02-first-impression/static/ps.jpg]]
 
 But something happened a I realised that i need change so I gone to high school where I can study electronics. It's maybe sounds unimportant but it is!
 
@@ -26,15 +26,15 @@ At the same time I started doing graphic and motion design at the VFX studio bas
 
 Below this text is a example project where we used practical effects and electronic knowledge to create a mask that projects animated videos, is controllable remotely and acts as a mascot in filmed videos where it replaces CGI.
 
-![[IMG_3879.mp4]]
-![[IMG_3857.jpeg]]
+![[/02-first-impression/Video/IMG_3879.mp4]]
+![[/02-first-impression/static/IMG_3857.jpeg]]
 *This is testing footage of one our product design – The mask(ot) for company called NFToaster*
 
-![[IMG_2141.jpg]]
+![[/02-first-impression/static/IMG_2141.jpg]]
 *Our team at Tweakpost and our animatronic Carp who really speaks!*
 
 ### University
-![[static/IMG_1731.jpg]]
+![[/02-first-impression/static/IMG_1731.jpg]]
 *behind the scenes of the board game Indigo*
 
 I started studying at VŠKK because I already had some real experience with graphic design and advertising. At the same time I continued to work on commercial projects and advertising campaigns.
@@ -46,7 +46,7 @@ Sadly, our tweak team has split up, so I continue in the practical effects and p
 
 This is a project we are creating together with the Czech School without Borders, London. We are trying to bring Czech children a better way of learning than just watching a presentation. We have therefore devised a short animated film using elements of practical and visual effects, along with animated illustrations.
 
-![[Frantisek Josef - Trailer.mp4]]
+![[/02-first-impression/Video/Frantisek Josef - Trailer.mp4]]
 
 *Short documentary WW2 film for Czech embassy in London about Josef František in collaboration with Czech School*
 
@@ -59,11 +59,11 @@ Back in the days when AI was an unfamiliar concept I had already tried it and du
 
 Sometimes I simply experiment, in this example of my work I also use hand as the main actor in a music video that moves the whole world. And as in my other works, I combine practical and visual effects.
 
-![[pasted-image.png]]
+![[/02-first-impression/static/pasted-image.png]]
 *BTS of the music video*
 
 
-![[KNYY_NowOrNever_Scene25_v02_03_comp_behance-Apple Devices 4K.mp4]]
+![[/02-first-impression/Video/KNYY_NowOrNever_Scene25_v02_03_comp_behance-Apple Devices 4K.mp4]]
 *One of the scenes in final music video*
 
 
@@ -71,10 +71,8 @@ Are these projects too boring? I agree! I get bored sometimes too. That's why in
 
 The point of this font was simple, to create a font that I can use in animations without having to pay for expensive special video licenses.
 
-![[Artboard 1.png]]
+![[/02-first-impression/static/Artboard 1.png]]
 
 And where you can see Mluvka? For example in the TV show called *Extraktoři* by TV Nova!
-
-
 
 ### And that's me! "only" designer!
