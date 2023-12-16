@@ -20,7 +20,7 @@ But something happened a I realised that i need change so I gone to high school 
 
 ## My first graphic and motion works
 
-At the same time I started doing graphic and motion design at the VFX studio based in Prague. And we did some amazing things, mainly practical and animatronics effects!
+At the same time I started doing graphic and motion design at the VFX studio based in Prague. And we did some amazing things, like practical and animatronics effects, but also CGI and digital animation!
 
 Below this text is a example project where we used practical effects and electronic knowledge to create a mask that projects animated videos, is controllable remotely and acts as a mascot in filmed videos where it replaces CGI.
 
