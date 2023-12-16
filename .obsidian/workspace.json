@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cde22f30659b2cde",
+        "id": "a72eb47b9fdd0ad8",
         "type": "tabs",
         "children": [
           {
-            "id": "a741e1c7ff9ceed0",
+            "id": "620c59aa93102425",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a741e1c7ff9ceed0",
+  "active": "620c59aa93102425",
   "lastOpenFiles": [
     "02-first-impression/Video/NowOrNever.mp4",
+    "video/Video/NowOrNever.mp4.md",
     "02-first-impression/02-first-impression.md",
+    "video/Video",
+    "video",
     "02-first-impression/Video/KNYY_NowOrNever_Scene25_v02_03_comp_behance-Apple_Devices_4K.m4v",
     "02-first-impression/Video/EX_05_0091186_v01_01_portfolio.mp4",
     "EX_05_0091186_v01_01_portfolio.mp4",
@@ -163,8 +166,6 @@
     "02-first-impression/presentation/~$02_presentation_AJ_Krblich.pptx",
     "02_presentation_AJ_Krblich.key.md",
     "02-first-impression/presentation/02_presentation_AJ_Krblich.pptx",
-    "02-first-impression/presentation",
-    "02-first-impression/untitled folder",
     "03-content-first.md",
     "index.md",
     "2023-12-12.md",
