@@ -69,7 +69,7 @@ Sometimes I simply experiment, in this example of my work I also use hand as the
 ![BTS of the Music video Now or Never](/static/pasted-image.png)
 *BTS of the music video* Now or Never by KNYY
 
-![One of the scenes in final music ](video/Video/KNYY_NowOrNever_Scene25_v02_03_comp_behance-Apple_Devices_4K.mp4)*One of the scenes in final music video* 
+![One of the scenes in final music ](video/Video/NowOrNever.mp4)*One of the scenes in final music video* 
 
 ---
 ### Mluvka (custom typeface)
