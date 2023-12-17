@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About.md",
+                "file": "03-content-first/Portfolio.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About.md",
+                "file": "03-content-first/Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About.md",
+                "file": "03-content-first/Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About.md"
+                "file": "03-content-first/Portfolio.md"
               }
             }
           }
@@ -173,12 +173,15 @@
   },
   "active": "a8d1eebe8c4e71c2",
   "lastOpenFiles": [
-    "03-content-first.md",
+    "static/Artboard1.png.md",
     "03-content-first/Portfolio.md",
+    "03-content-first/static/Artboard1.png",
+    "static",
+    "03-content-first.md",
+    "03-content-first/Writing.md",
     "About.md",
     "index.md",
     "README.md",
-    "03-content-first/Writing.md",
     "03-content-first/my-old-photo.jpg",
     "01-one-word/01-one-word.md",
     "01-one-word/01-one-word_first-draft.md",
@@ -192,7 +195,6 @@
     "03-content-first/static/IMG_3857.jpeg",
     "03-content-first/static/KNYY_â_Fantasy_(Trailer).mp4",
     "03-content-first/static/ps.jpg",
-    "03-content-first/static/Artboard1.png",
     "03-content-first/static/IMG_1131.jpg",
     "03-content-first/static/IMG_1731.jpg",
     "03-content-first/Video/fantasy.mp4",
@@ -203,7 +205,6 @@
     "03-content-first/Video/IMG_3879.mp4",
     "03-content-first/presentation",
     "03-content-first/02-first-impression.md",
-    "03-content-first/static",
     "03-content-first/Portoflio.md",
     "().md",
     "About-Me.md",
