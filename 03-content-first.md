@@ -1,4 +1,4 @@
-![[02-first-impression/static/me.jpg]]
+![[/02-first-impression/static/me.jpg]]
 # Hello There! I'm you designer! 
 
 As you can see, I'm fan of Star Wars and thats one of the reasons why I do complex design. What does it mean? Mainly, I am motion & graphic designer for multimedia projects like TV series, commercials but also I do brand design or product design.

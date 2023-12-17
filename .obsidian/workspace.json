@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-one-word/01-one-word.md",
+                "file": "03-content-first.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-one-word/01-one-word.md",
+                "file": "03-content-first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-one-word/01-one-word.md",
+                "file": "03-content-first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-one-word/01-one-word.md"
+                "file": "03-content-first.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "e766b3a1fde8ee82",
   "lastOpenFiles": [
+    "01-one-word/01-one-word.md",
     "01-one-word/01-one-word_first-draft.md",
     "01-one-word/01-one-word_revision.md",
-    "01-one-word/01-one-word.md",
     "02-first-impression/02-first-impression.md",
     "01-one-word/Graphic_designer_03.gif",
     "README.md",
