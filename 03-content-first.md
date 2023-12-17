@@ -7,6 +7,6 @@
 ##### About:
 [About Me](About.md)
 
-# Hi! Your motion designer here! 
+## Hi! Your motion designer here! 
 Prague based Graphic & Motion designer with love in practical and experimental effects.
 ![Photography of me](/03-content-first/my-old-photo.jpg)

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About.md",
+                "file": "03-content-first.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About.md",
+                "file": "03-content-first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About.md",
+                "file": "03-content-first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About.md"
+                "file": "03-content-first.md"
               }
             }
           }
@@ -173,19 +173,19 @@
   },
   "active": "a8d1eebe8c4e71c2",
   "lastOpenFiles": [
-    "03-content-first.md",
+    "About.md",
+    "index.md",
+    "README.md",
     "03-content-first/Writing.md",
     "03-content-first/Portfolio.md",
+    "03-content-first/my-old-photo.jpg",
+    "03-content-first.md",
     "01-one-word/01-one-word.md",
     "01-one-word/01-one-word_first-draft.md",
     "01-one-word/01-one-word_revision.md",
     "01-one-word/Graphic_designer_03.gif",
     "03-content-first/Video/Graphic_designer_03.gif",
     "02-first-impression/02-first-impression.md",
-    "About.md",
-    "index.md",
-    "03-content-first/my-old-photo.jpg",
-    "README.md",
     "03-content-first/presentation/~$02_presentation_AJ_Krblich.pptx",
     "03-content-first/static/IMG_2141.jpg",
     "03-content-first/static/pasted-image.png",
