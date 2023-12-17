@@ -13,3 +13,5 @@ You know, CGI just look fake!
 [Portfolio](/03-content-first/Portfolio.md)\
 [Behance](http://be.net/JiriKrblich)\
 [Showreel](https://f.io/5K060J4q)
+
+[Writing](/03-content-first/Writing.md)

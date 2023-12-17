@@ -99,3 +99,5 @@ Someone who does a little bit of everything, but most importantly a partner!
 [My Behance](http://be.net/JiriKrblich)\
 [Showreel](https://f.io/5K060J4q)\
 [Offline](https://docs.google.com/presentation/d/1OUmfITUkxccNSzLBnFHSptuiKydQFG4B/edit?usp=share_link&ouid=105066854430645324700&rtpof=true&sd=true)
+
+[Writing](Writing.md)
