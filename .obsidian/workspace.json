@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-first-impression/02-first-impression.md",
+                "file": "01-one-word/01-one-word.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "87cd1c8cf5187bd1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "01-one-word/Graphic_designer_03.gif"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-first-impression/02-first-impression.md",
+                "file": "01-one-word/01-one-word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-first-impression/02-first-impression.md",
+                "file": "01-one-word/01-one-word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-first-impression/02-first-impression.md"
+                "file": "01-one-word/01-one-word.md"
               }
             }
           }
@@ -148,11 +158,21 @@
   },
   "active": "620c59aa93102425",
   "lastOpenFiles": [
+    "01-one-word/Graphic_designer_03.gif",
+    "02-first-impression/02-first-impression.md",
+    "02-first-impression/static/IMG_2141.jpg",
+    "01-one-word/01-one-word.md",
+    "01-one-word/Graphic_desiger_03.gif.md",
+    "01-one-word/01-one-word_first-draft.md",
+    "01-one-word/01-one-word_revision.md",
+    "index.md",
+    "02-first-impression/static/IMG_1131.jpg",
+    "03-content-first.md",
+    "README.md",
     "02-first-impression/static/me.jpg",
     "02-first-impression/static/jirka_04.25.jpg",
     "02-first-impression/Video/NowOrNever.mp4",
     "video/Video/NowOrNever.mp4.md",
-    "02-first-impression/02-first-impression.md",
     "video/Video",
     "video",
     "02-first-impression/Video/KNYY_NowOrNever_Scene25_v02_03_comp_behance-Apple_Devices_4K.m4v",
@@ -162,20 +182,14 @@
     "02-first-impression/Video/fantasy.mp4",
     "02-first-impression/static/Artboard1.png",
     "02-first-impression/Video/IMG_3857.jpeg.md",
-    "Untitled.md",
     "02-first-impression/Video/fantasy.mp4.md",
     "02-first-impression/static/IMG_1731.jpg",
     "02-first-impression/presentation/~$02_presentation_AJ_Krblich.pptx",
     "02_presentation_AJ_Krblich.key.md",
     "02-first-impression/presentation/02_presentation_AJ_Krblich.pptx",
-    "03-content-first.md",
-    "index.md",
     "2023-12-12.md",
     "Index.md",
-    "README.md",
-    "01-one-word/01-one-word.md",
     "02-first-impression/static/pasted-image.png",
-    "02-first-impression/static/IMG_2141.jpg",
     "02-first-impression/static/IMG_3857.jpeg",
     "02-first-impression/static/ps.jpg"
   ]

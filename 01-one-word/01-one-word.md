@@ -1,4 +1,11 @@
-# Artist
+#### Index:
+1) [First draft](01-one-word/01-word_first-draft.md)\
+2) [Revision](01-one-word/01-word_revision.md)\
+3) [Final](01-one-word/01-word.md) 
+
+![The gif of graphic designer](01-one-word/Graphic_desiger_03.gif) 
+
+# Artist 
 
 Art and design are often considered two closely related yet distinct disciplines. While both fields involve creative expression, the role, purpose, and perception of artists and designers can vary significantly. As a designer, it's not uncommon to hear sentiments like, "I am a designer, not an artist," and this essay delves into the reasons why some designers may have negative feelings toward the term "artist."
 
