@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-one-word/01-one-word.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-one-word/01-one-word.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-one-word/01-one-word.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-one-word/01-one-word.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,10 +158,10 @@
   },
   "active": "620c59aa93102425",
   "lastOpenFiles": [
+    "01-one-word/01-one-word.md",
     "01-one-word/Graphic_designer_03.gif",
     "02-first-impression/02-first-impression.md",
     "02-first-impression/static/IMG_2141.jpg",
-    "01-one-word/01-one-word.md",
     "01-one-word/Graphic_desiger_03.gif.md",
     "01-one-word/01-one-word_first-draft.md",
     "01-one-word/01-one-word_revision.md",
