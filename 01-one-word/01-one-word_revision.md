@@ -1,5 +1,5 @@
 #### Index:
-1) [First draft](01-one-word/01-word_first-draft.md)\
+1) [First draft](01-one-word/01-one-word_first-draft.md)\
 3) [Final](01-one-word/01-one-word.md) 
 # Artist 
 

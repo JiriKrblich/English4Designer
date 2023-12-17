@@ -1,5 +1,5 @@
 #### Index:
-2) [Revision](01-one-word/01-word_revision.md)\
+2) [Revision](01-one-word/01-one-word_revision.md)\
 3) [Final](01-one-word/01-one-word.md) 
 
 # Artist 
