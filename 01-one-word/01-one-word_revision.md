@@ -1,4 +1,16 @@
 #### Index:
 1) [First draft](01-one-word/01-word_first-draft.md)\
-2) [Revision](01-one-word/01-word_revision.md)\
 3) [Final](01-one-word/01-one-word.md) 
+# Artist 
+
+Someone calls themselves an artist, someone a designer, someone thinks it's the same thing and someone ignores the differences. But most people consider art and design to be different, albeit closely related. Some claim to be design and don't like other labels, some consider themselves designers and do more art. This essay is aimed at exactly that.
+
+To begin with, it is important to distinguish between these two concepts, and although their perception can be individual, I perceive them as follows: Art is primarily a discipline that the artist creates "for himself", he wants to express his feelings or something that is currently in his thoughts . A designer, on the other hand, is someone who, although he puts a piece of himself into his work and thus differentiates himself from others, he primarily does work in such a way as to satisfy his clients. At the same time, it must fulfill a function. For example, graphic design should be primarily informative and readable at first glance. The artist may do the same, but it is not always clear what he meant. And this applies in all areas of design, whether it is graphic design, motion design, product design or other forms that can be considered artistic, but in the end are also made for normal people.
+
+The practical nature of design is of course the biggest difference, designers work with the user experience that affects the entire design of the final product, they work with the already mentioned readability of information and although sometimes they can do things that do not seem innovative at first glance, mostly it is because people and clients wouldn't understand it otherwise.
+
+Art is indeed a commercial matter, or at least we perceive it that way, but mostly it is not. The complete opposite is the design that fulfills the assignment and creates a tool that is later paid like any other work. Of course, this is also possible in art, and a great example is for example Kryštof Kintera, who created concrete Brutalist miniatures of the state of Prague for the Prague Kunsthalla, which are to be destroyed. But most people are not that lucky and do it more for their own personal pleasure.
+
+I would pause for a moment on this topic, because the general public perceives art and design as simply old and therefore exhibited in museums. I personally perceive a difference in this. If I see porcelain mugs in a museum, gallery or similar institution, I can't immediately consider them as art and I have to think about whether they were really created as an exhibit or whether they were just goods for people that anyone could buy and enjoy . At the same time, if we look at history, many artists made commissioned paintings or sculptures.
+
+What would I summarize from this? Well, it can be said that the difference in these two concepts is primarily the client, who either is or is not. It is often also a form where the designer is looking for the best marketing and financial means. I personally don't like the label "artist", because I'm simply not one and I can't do projects myself in my free time, I simply need a client brief to be able to create something. And although most people's opinion may differ, I think it is correct.

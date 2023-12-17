@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a72eb47b9fdd0ad8",
+        "id": "c13eb357193a3844",
         "type": "tabs",
         "children": [
           {
-            "id": "620c59aa93102425",
+            "id": "e766b3a1fde8ee82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-one-word/01-one-word.md",
+                "file": "02-first-impression/02-first-impression.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "87cd1c8cf5187bd1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "01-one-word/Graphic_designer_03.gif"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-one-word/01-one-word.md",
+                "file": "02-first-impression/02-first-impression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-one-word/01-one-word.md",
+                "file": "02-first-impression/02-first-impression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-one-word/01-one-word.md"
+                "file": "02-first-impression/02-first-impression.md"
               }
             }
           }
@@ -156,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "620c59aa93102425",
+  "active": "e766b3a1fde8ee82",
   "lastOpenFiles": [
-    "01-one-word/01-one-word_revision.md",
     "01-one-word/Graphic_designer_03.gif",
+    "01-one-word/01-one-word_revision.md",
     "01-one-word/01-one-word_first-draft.md",
     "01-one-word/01-one-word.md",
     "README.md",
