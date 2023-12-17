@@ -3,7 +3,7 @@
 2) [Revision](01-one-word/01-word_revision.md)\
 3) [Final](01-one-word/01-one-word.md) 
 
-![You are looking at GIF, a graphic designer parodying the popular and popular gif called "Hackerman" from the 2015 movie Kung Fury. In the GIF or animated image, there is a graphic designer who initially puts on glasses, but immediately puts his hands to his body in a crisis. Just like his translation in the already mentioned film. The moment he does this, an animated text appears that imitates the 90s and the movie at the same time, but above all it makes fun of wordart and is set in Helvetica, the least used font in a graphic design sentence. The text contains the phrase "graphic designer".](Graphic_desiger_03.gif)
+![You are looking at GIF, a graphic designer parodying the popular and popular gif called "Hackerman" from the 2015 movie Kung Fury. In the GIF or animated image, there is a graphic designer who initially puts on glasses, but immediately puts his hands to his body in a crisis. Just like his translation in the already mentioned film. The moment he does this, an animated text appears that imitates the 90s and the movie at the same time, but above all it makes fun of wordart and is set in Helvetica, the least used font in a graphic design sentence. The text contains the phrase "graphic designer".](Graphic_designer_03.gif)
 # Artist 
 
 Art and design are often considered two closely related yet distinct disciplines. While both fields involve creative expression, the role, purpose, and perception of artists and designers can vary significantly. As a designer, it's not uncommon to hear sentiments like, "I am a designer, not an artist," and this essay delves into the reasons why some designers may have negative feelings toward the term "artist."
