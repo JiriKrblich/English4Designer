@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About.md",
+                "file": "03-content-first/Writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About.md",
+                "file": "03-content-first/Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About.md",
+                "file": "03-content-first/Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About.md"
+                "file": "03-content-first/Writing.md"
               }
             }
           }
@@ -174,12 +174,12 @@
   "active": "a8d1eebe8c4e71c2",
   "lastOpenFiles": [
     "03-content-first/Portfolio.md",
+    "03-content-first/Writing.md",
+    "About.md",
     "03-content-first.md",
     "static/Artboard1.png.md",
     "03-content-first/static/Artboard1.png",
     "static",
-    "03-content-first/Writing.md",
-    "About.md",
     "index.md",
     "README.md",
     "03-content-first/my-old-photo.jpg",

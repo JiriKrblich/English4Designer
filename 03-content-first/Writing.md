@@ -12,3 +12,7 @@ Art is indeed a commercial matter, or at least we perceive it that way, but most
 I would pause for a moment on this topic, because the general public perceives art and design as simply old and therefore exhibited in museums. I personally perceive a difference in this. If I see porcelain mugs in a museum, gallery or similar institution, I can't immediately consider them as art and I have to think about whether they were really created as an exhibit or whether they were just goods for people that anyone could buy and enjoy . At the same time, if we look at history, many artists made commissioned paintings or sculptures.
 
 What would I summarize from this? Well, it can be said that the difference in these two concepts is primarily the client, who either is or is not. It is often also a form where the designer is looking for the best marketing and financial means. I personally don't like the label "artist" because I'm simply not one and I can't do my own projects in my free time, I just need a client brief to create something. And although most people's opinion may differ, I think it is correct.
+
+#### 🔗 Links:
+[Writing](Writing.md)
+[About](../About.md)
