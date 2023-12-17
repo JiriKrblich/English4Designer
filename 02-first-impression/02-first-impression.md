@@ -9,7 +9,7 @@
 2) [My first graphic and motion works](#my-first-graphic-and-motion-works)\
 3) [University](#university)\
 4) [What about now?](#what-about-now)\
-5) [Links](#links)
+5) [Links](#-links)
 # Hi! My name is Jiří Krblich and I'm generalist in visual design! 🧑‍💻
 
 ![Photography of me](/static/me.jpg)
