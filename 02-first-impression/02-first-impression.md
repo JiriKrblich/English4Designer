@@ -4,12 +4,12 @@
 
 [offline version of presentation](https://docs.google.com/presentation/d/1OUmfITUkxccNSzLBnFHSptuiKydQFG4B/edit?usp=share_link&ouid=105066854430645324700&rtpof=true&sd=true)
 
-**Index**
-1) [How I Started](#how-i-started)
-2) [My first graphic and motion works](#my-first-graphic-and-motion-works)
-3) [University](#university)
-4) [What about now?](#what-about-now)
-5) [Links](#links)
+**Index**\
+1) [How I Started](#how-i-started)\
+2) [My first graphic and motion works](#my-first-graphic-and-motion-works)\
+3) [University](#university)\
+4) [What about now?](#what-about-now)\
+5) [Links](#links)\
 # Hi! My name is Jiří Krblich and I'm generalist in visual design! 🧑‍💻
 
 ![Photography of me](/static/me.jpg)
@@ -96,4 +96,4 @@ Someone who does a little bit of everything, but most importantly a partner!
 #### 🔗 Links:
 [My Behance](http://be.net/JiriKrblich)\
 [Showreel](https://f.io/5K060J4q)\
-[Offline](https://docs.google.com/presentation/d/1OUmfITUkxccNSzLBnFHSptuiKydQFG4B/edit?usp=share_link&ouid=105066854430645324700&rtpof=true&sd=true)\
+[Offline](https://docs.google.com/presentation/d/1OUmfITUkxccNSzLBnFHSptuiKydQFG4B/edit?usp=share_link&ouid=105066854430645324700&rtpof=true&sd=true)
