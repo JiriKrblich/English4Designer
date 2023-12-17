@@ -1,10 +1,11 @@
 # 03-content-first
 ### 🔗Index:
 
-##### My work:
+**My work:**\
 [Portfolio](/03-content-first/Portfolio.md)\
 [Writing](/03-content-first/Writing.md)
-##### About:
+
+**About:**\
 [About Me](About.md)
 
 ### Hi! Your motion designer here! Prague based Graphic & Motion designer with love in practical and experimental effects.
