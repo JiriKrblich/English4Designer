@@ -8,5 +8,5 @@
 **About:**\
 [About Me](About.md)
 
-### Hi! I'm here! Prague based Graphic & Motion designer with love in practical and experimental effects.
+## Hi! I'm here! Prague based Graphic & Motion designer with love in practical and experimental effects.
 ![Photography of me](/03-content-first/my-old-photo.jpg)
