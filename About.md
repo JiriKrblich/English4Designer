@@ -1,5 +1,5 @@
 ![Photography of me](/02-first-impression/static/me.jpg)
-# Hello There! I'm you motion designer! Ready to shot some practical effects!
+# Hello There! I'm your motion designer! Ready to shot some practical effects!
 
 As you can see, I'm fan of Star Wars and thats one of the reasons why I do complex design. What does it mean? Mainly, I am motion & graphic designer for multimedia projects like TV series, commercials but also I do brand design or product design.
 
