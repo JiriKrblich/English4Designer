@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-content-first.md",
+                "file": "About.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-content-first.md",
+                "file": "About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-content-first.md",
+                "file": "About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-content-first.md"
+                "file": "About.md"
               }
             }
           }
@@ -173,13 +173,13 @@
   },
   "active": "a8d1eebe8c4e71c2",
   "lastOpenFiles": [
+    "03-content-first.md",
+    "03-content-first/Portfolio.md",
     "About.md",
     "index.md",
     "README.md",
     "03-content-first/Writing.md",
-    "03-content-first/Portfolio.md",
     "03-content-first/my-old-photo.jpg",
-    "03-content-first.md",
     "01-one-word/01-one-word.md",
     "01-one-word/01-one-word_first-draft.md",
     "01-one-word/01-one-word_revision.md",
