@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c13eb357193a3844",
+        "id": "e6e7d9c2cc9a12d7",
         "type": "tabs",
         "children": [
           {
-            "id": "e766b3a1fde8ee82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-content-first.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb610940889cafe2",
+            "id": "8c092f0a91571694",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a8d1eebe8c4e71c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About.md",
+                "file": "03-content-first/Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About.md",
+                "file": "03-content-first/Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About.md"
+                "file": "03-content-first/Portfolio.md"
               }
             }
           }
@@ -171,38 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8d1eebe8c4e71c2",
+  "active": "8c092f0a91571694",
   "lastOpenFiles": [
+    "About.md",
     "03-content-first/Writing.md",
     "03-content-first/Portfolio.md",
-    "About.md",
     "03-content-first.md",
-    "static/Artboard1.png.md",
     "03-content-first/static/Artboard1.png",
-    "static",
-    "index.md",
-    "README.md",
+    "03-content-first/static/IMG_2141.jpg",
+    "03-content-first/static/IMG_1731.jpg",
+    "03-content-first/static/IMG_1131.jpg",
+    "03-content-first/static/IMG_3857.jpeg",
+    "03-content-first/static/me.jpg",
+    "03-content-first/static/ps.jpg",
+    "03-content-first/static/KNYY_â_Fantasy_(Trailer).mp4",
+    "03-content-first/static/pasted-image.png",
+    "03-content-first/Video/NowOrNever.mp4",
+    "03-content-first/Video/IMG_3879.mp4",
+    "03-content-first/Video/IMG_3879.mov",
+    "03-content-first/Video/Graphic_designer_03.gif",
     "03-content-first/my-old-photo.jpg",
+    "02-first-impression/02-first-impression.md",
+    "README.md",
+    "index.md",
+    "static/Artboard1.png.md",
+    "static",
     "01-one-word/01-one-word.md",
     "01-one-word/01-one-word_first-draft.md",
     "01-one-word/01-one-word_revision.md",
-    "01-one-word/Graphic_designer_03.gif",
-    "03-content-first/Video/Graphic_designer_03.gif",
-    "02-first-impression/02-first-impression.md",
     "03-content-first/presentation/~$02_presentation_AJ_Krblich.pptx",
-    "03-content-first/static/IMG_2141.jpg",
-    "03-content-first/static/pasted-image.png",
-    "03-content-first/static/IMG_3857.jpeg",
-    "03-content-first/static/KNYY_â_Fantasy_(Trailer).mp4",
-    "03-content-first/static/ps.jpg",
-    "03-content-first/static/IMG_1131.jpg",
-    "03-content-first/static/IMG_1731.jpg",
     "03-content-first/Video/fantasy.mp4",
-    "03-content-first/Video/NowOrNever.mp4",
     "03-content-first/Video/Frantisek_Josef_-_Trailer.mp4",
     "03-content-first/Video/EX_05_0091186_v01_01_portfolio.mp4",
-    "03-content-first/Video/IMG_3879.mov",
-    "03-content-first/Video/IMG_3879.mp4",
     "03-content-first/presentation",
     "03-content-first/02-first-impression.md",
     "03-content-first/Portoflio.md",

@@ -9,13 +9,12 @@
 3) [University](#university)\
 4) [What about now?](#what-about-now)\
 5) [Links](#-links)
-# Hi! My name is Jiří Krblich and I'm generalist in visual design! 🧑‍💻
+# Hello There! I'm your motion designer! Ready to shot some practical effects! 🧑‍💻
 
 ![Photography of me](/static/me.jpg)
-... but mainly graphic & motion designer for multimedia projects like movie, commercials or brading.
+Hi! My name is Jiří Krblich and I am Prague based graphic and motion designer for multimedia projects like music, movie or commercials.
 
 *But what does that actually mean?*
-
 ## How I started?
 
 It's all started in my 10 when I started learning the basic of Graphic Design with old creative suite on eMac.
@@ -92,8 +91,7 @@ The point of this font was simple, to create a font that I can use in animations
 And where you can see Mluvka? For example in the Serial called *Extraktoři (Bonus)* by TV Nova where I did visual effects and motion design too!
 
 ![Scene from TV show called Extraktori by TV Nova](/Video/EX_05_0091186_v01_01_portfolio.mp4)
-# And that's me! "only" designer!
-Someone who does a little bit of everything, but most importantly a partner!
+# And That's all folks! Feel free to contact me at the links below.
 
 #### 🔗 Links:
 [My Behance](http://be.net/JiriKrblich)\
