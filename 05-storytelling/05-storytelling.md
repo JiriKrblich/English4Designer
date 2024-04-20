@@ -9,7 +9,7 @@ Where did it begin? We can say that in my early days of digital graphics. Here I
 *an example of one of my first downloaded fonts (with terrible kerning)*
 
 ## The problem
-In one of my graphic works, I started to realize that the fonts I have are not good. On the other hand, I started to expand my knowledge of typography and started to create a library that contains fonts that are well designed, have good kerning and diacritics (which is usually a problem in Czech & Slovak).
+In one of my graphic works, I started to realize that the fonts I have *are not good*. On the other hand, I started to expand my knowledge of typography and **started to create a library** that contains fonts that are well designed, have good kerning and diacritics (which is usually a problem in Czech & Slovak).
 ![My library of good fonts](images/library.png)*screenshot of my typo library*
 
 ![Example of bad kerning in wildy used typeface Inter](images/badkerning.png)
@@ -23,9 +23,9 @@ I've tried many fonts over the years that entertained me for a while and then st
 
 For myself I have found a solution, the ideal font that is this versatile and readable is **Arial**. If only because everyone has it on their computer and everyone is used to reading it.
 
-Do you think anyone will notice the difference between Arial and Helvetica? Probably not. And the new version of Arial, Arial Nova, is a really good font that no longer suffers from flaws (only the condensed version have bad diacritics).
+Do you think anyone will notice the difference between *Arial and Helvetica*? Probably not. And the new version of Arial, Arial Nova, is a really good font that no longer suffers from flaws (only the condensed version have bad diacritics).
 
 ## Recommendations
-And what can I recommend? Never look for the perfect typeface! Instead, use the ones that come with your Mac, which are high quality from typefoundries all over the world. I like to use them!
+And what can I recommend? **Never look for the perfect typeface!** Instead, use the ones that come with your Mac, which are high quality from typefoundries all over the world. I like to use them!
 ![My library of good fonts](images/macfonts.png)
 *Some of the pre-installed quality fonts on Mac*

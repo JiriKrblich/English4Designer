@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-year-in-review/07-year-in-review.md",
+                "file": "05-storytelling/05-storytelling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07-year-in-review/07-year-in-review.md",
+                "file": "05-storytelling/05-storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07-year-in-review/07-year-in-review.md",
+                "file": "05-storytelling/05-storytelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07-year-in-review/07-year-in-review.md"
+                "file": "05-storytelling/05-storytelling.md"
               }
             }
           }
@@ -146,19 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "300a9d169401f2e6",
+  "active": "f065e31e4ed59bd3",
   "lastOpenFiles": [
+    "05-storytelling/images/macfonts.png",
+    "05-storytelling/images/badkerning.png",
+    "03-content-first/my-old-photo.jpg",
+    "07-year-in-review/07-year-in-review.md",
     "07-year-in-review/images/typemap.jpeg",
     "07-year-in-review/images/KliK_april.jpeg",
     "07-year-in-review/images",
     "03-content-first/Portfolio.md",
-    "07-year-in-review/07-year-in-review.md",
     "05-storytelling/05-storytelling.md",
     "06-thesis/06-thesis.md",
     "04-voice-tone-style/04-voice-tone-style.md",
     "04-voice-tone-style/04-voice-tone-style-example.md",
-    "05-storytelling/images/macfonts.png",
-    "05-storytelling/images/badkerning.png",
     "05-storytelling/images/Fontsinuse.png",
     "05-storytelling/images/library.png",
     "05-storytelling/images/firsttypeface.png",
