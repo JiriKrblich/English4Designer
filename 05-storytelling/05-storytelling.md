@@ -6,17 +6,17 @@ We all have a hobby or obsession that we enjoy. Someone collects stamps, someone
 ## Begginning
 Where did it begin? We can say that in my early days of digital graphics. Here I thought that the typeface is what sets the direction of the graphic and changes its mood and character.
 ![an example of one of my first downloaded fonts](images/firsttypeface.png)
-*an example of one of my first downloaded fonts (with terrible kerning)*\
+*an example of one of my first downloaded fonts (with terrible kerning)*
 
 ## The problem
 In one of my graphic works, I started to realize that the fonts I have are not good. On the other hand, I started to expand my knowledge of typography and started to create a library that contains fonts that are well designed, have good kerning and diacritics (which is usually a problem in Czech).
-![My library of good fonts](images/library.png)*screenshot of my typo library*\
+![My library of good fonts](images/library.png)*screenshot of my typo library*
 
 ![Example of bad kerning in wildy used typeface Inter](images/badkerning.png)
-*Example of bad kerning in wildy used typeface Inter*\
+*Example of bad kerning in wildy used typeface Inter*
 
 When I started collecting fonts, I began to dream of an ideal font that I could use universally, had a neutral visual language, and was easy to read. So I began to search and expand my library.
-![My library of good fonts](images/Fontsinuse.png)*My morning routine is to make coffee and check out new applications of different fonts. I have the purple underlined ones in my library.*\
+![My library of good fonts](images/Fontsinuse.png)*My morning routine is to make coffee and check out new applications of different fonts. I have the purple underlined ones in my library.*
 
 ## I found it
 I've tried many fonts over the years that entertained me for a while and then stopped. Whether it's **Graphik** by CommercialType or **Satoshi** by ITF.  
@@ -28,4 +28,4 @@ Do you think anyone will notice the difference between Arial and Helvetica? Prob
 ## Recommendations
 And what can I recommend? Never look for the perfect typeface! Instead, use the ones that come with your Mac, which are high quality from typefoundries all over the world. I like to use them!
 !![My library of good fonts](images/macfonts.png)
-*Some of the pre-installed quality fonts on Mac*\
+*Some of the pre-installed quality fonts on Mac*
