@@ -9,7 +9,7 @@ Where did it begin? We can say that in my early days of digital graphics. Here I
 *an example of one of my first downloaded fonts (with terrible kerning)*
 
 ## The problem
-In one of my graphic works, I started to realize that the fonts I have are not good. On the other hand, I started to expand my knowledge of typography and started to create a library that contains fonts that are well designed, have good kerning and diacritics (which is usually a problem in Czech).
+In one of my graphic works, I started to realize that the fonts I have are not good. On the other hand, I started to expand my knowledge of typography and started to create a library that contains fonts that are well designed, have good kerning and diacritics (which is usually a problem in Czech & Slovak).
 ![My library of good fonts](images/library.png)*screenshot of my typo library*
 
 ![Example of bad kerning in wildy used typeface Inter](images/badkerning.png)
