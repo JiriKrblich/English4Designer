@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e6e7d9c2cc9a12d7",
+        "id": "9919a76369e0d114",
         "type": "tabs",
         "children": [
           {
-            "id": "8c092f0a91571694",
+            "id": "f065e31e4ed59bd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-content-first/Portfolio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7451cf3afb18db9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "05-storytelling/05-storytelling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "05-storytelling/05-storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "05-storytelling/05-storytelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "05-storytelling/05-storytelling.md"
               }
             }
           }
@@ -159,40 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "300a9d169401f2e6",
+  "active": "f065e31e4ed59bd3",
   "lastOpenFiles": [
-    "znacka_02.png",
-    "01-one-word/01-one-word.md",
+    "07-year-in-review/07-year-in-review.md",
+    "06-thesis/06-thesis.md",
+    "05-storytelling/05-storytelling.md",
+    "05-storytelling/images/macfonts.png",
+    "05-storytelling/images/badkerning.png",
+    "05-storytelling/images/Fontsinuse.png",
+    "05-storytelling/images/library.png",
+    "05-storytelling/images/firsttypeface.png",
+    "05-storytelling/images",
+    "04-voice-tone-style/04-voice-tone-style.md",
+    "04-voice-tone-style/04-voice-tone-style-example.md",
+    "04-voice-tone-style/images/buildInGlyphs.jpg",
+    "04-voice-tone-style/images",
     "index.md",
     "About.md",
-    "03-content-first/Writing.md",
-    "03-content-first/Portfolio.md",
+    "README.md",
     "03-content-first.md",
+    "07-year-in-review",
+    "06-thesis",
+    "05-storytelling",
+    "04-voice-tone-style",
+    "01-one-word/01-one-word.md",
+    "01-one-word/01-one-word_first-draft.md",
+    "01-one-word/01-one-word_revision.md",
+    "01-one-word/Graphic_designer_03.gif",
+    "03-content-first/Portfolio.md",
+    "02-first-impression/02-first-impression.md",
+    "znacka_02.png",
+    "03-content-first/Writing.md",
     "03-content-first/static/Artboard1.png",
     "03-content-first/static/IMG_2141.jpg",
-    "03-content-first/static/IMG_1731.jpg",
-    "03-content-first/static/IMG_1131.jpg",
-    "03-content-first/static/IMG_3857.jpeg",
-    "03-content-first/static/me.jpg",
-    "03-content-first/static/ps.jpg",
     "03-content-first/static/KNYY_â_Fantasy_(Trailer).mp4",
-    "03-content-first/static/pasted-image.png",
     "03-content-first/Video/NowOrNever.mp4",
     "03-content-first/Video/IMG_3879.mp4",
     "03-content-first/Video/IMG_3879.mov",
-    "03-content-first/Video/Graphic_designer_03.gif",
-    "03-content-first/my-old-photo.jpg",
-    "02-first-impression/02-first-impression.md",
-    "README.md",
     "static/Artboard1.png.md",
-    "static",
-    "01-one-word/01-one-word_first-draft.md",
-    "01-one-word/01-one-word_revision.md",
-    "03-content-first/presentation/~$02_presentation_AJ_Krblich.pptx",
-    "03-content-first/Video/fantasy.mp4",
-    "03-content-first/Video/Frantisek_Josef_-_Trailer.mp4",
-    "03-content-first/Video/EX_05_0091186_v01_01_portfolio.mp4",
-    "03-content-first/presentation",
     "03-content-first/02-first-impression.md",
     "03-content-first/Portoflio.md",
     "().md",
@@ -201,8 +192,6 @@
     "video/Video/NowOrNever.mp4.md",
     "02-first-impression/Video/IMG_3857.jpeg.md",
     "02-first-impression/Video/fantasy.mp4.md",
-    "02_presentation_AJ_Krblich.key.md",
-    "2023-12-12.md",
-    "Index.md"
+    "02_presentation_AJ_Krblich.key.md"
   ]
 }
