@@ -27,5 +27,5 @@ Do you think anyone will notice the difference between Arial and Helvetica? Prob
 
 ## Recommendations
 And what can I recommend? Never look for the perfect typeface! Instead, use the ones that come with your Mac, which are high quality from typefoundries all over the world. I like to use them!
-!![My library of good fonts](images/macfonts.png)
+![My library of good fonts](images/macfonts.png)
 *Some of the pre-installed quality fonts on Mac*
