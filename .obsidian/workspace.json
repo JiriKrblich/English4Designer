@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#LessTextMoreKlik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f065e31e4ed59bd3",
+  "active": "ff03365505dad272",
   "lastOpenFiles": [
     "06-thesis/images/Clip.jpg",
     "06-thesis/06-thesis.md",
