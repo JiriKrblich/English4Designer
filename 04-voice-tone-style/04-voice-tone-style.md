@@ -25,3 +25,5 @@ Text styling using **bold** or *italics* cuts is a basic text modification that 
 #### Use glyphs and technologies from used font
 Fonts contain various symbols such as an arrow or a heart, why not use those too? It's personal and nobody does it.
 ![example of glyphs in font](images/pretendard_symboly.png)If there is a use of variable font, *why not animate the axes*?
+
+[Nike was also part of my analysis, which you can find here](04-voice-tone-style-nike.md)
