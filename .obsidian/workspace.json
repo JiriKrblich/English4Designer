@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-storytelling/05-storytelling.md",
+                "file": "06-thesis/06-thesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-storytelling/05-storytelling.md",
+                "file": "06-thesis/06-thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-storytelling/05-storytelling.md",
+                "file": "06-thesis/06-thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-storytelling/05-storytelling.md"
+                "file": "06-thesis/06-thesis.md"
               }
             }
           }
@@ -148,13 +148,17 @@
   },
   "active": "f065e31e4ed59bd3",
   "lastOpenFiles": [
-    "05-storytelling/presentation/storytelling.pdf",
-    "06-thesis/06-thesis.md",
-    "05-storytelling/05-storytelling.md",
-    "05-storytelling/presentation",
-    "06-thesis/images/udrzitelnecesko.png",
-    "06-thesis/images",
+    "06-thesis/images/Clip.jpg",
     "07-year-in-review/07-year-in-review.md",
+    "07-year-in-review/images/typemap.jpeg",
+    "05-storytelling/05-storytelling.md",
+    "06-thesis/06-thesis.md",
+    "2024-04-21.md",
+    "06-thesis/images/udrzitelnecesko.png",
+    "06-thesis/images/klik_AI-lab.png",
+    "05-storytelling/presentation/storytelling.pdf",
+    "05-storytelling/presentation",
+    "06-thesis/images",
     "04-voice-tone-style/04-voice-tone-style.md",
     "04-voice-tone-style/04-voice-tone-style-example.md",
     "03-content-first.md",
@@ -162,7 +166,6 @@
     "05-storytelling/images/macfonts.png",
     "05-storytelling/images/badkerning.png",
     "03-content-first/my-old-photo.jpg",
-    "07-year-in-review/images/typemap.jpeg",
     "07-year-in-review/images/KliK_april.jpeg",
     "07-year-in-review/images",
     "03-content-first/Portfolio.md",
@@ -170,7 +173,6 @@
     "05-storytelling/images/library.png",
     "05-storytelling/images/firsttypeface.png",
     "05-storytelling/images",
-    "04-voice-tone-style/images/buildInGlyphs.jpg",
     "04-voice-tone-style/images",
     "index.md",
     "README.md",
@@ -190,7 +192,6 @@
     "01-one-word/Graphic_desiger_03.gif.md",
     "video/Video/NowOrNever.mp4.md",
     "02-first-impression/Video/IMG_3857.jpeg.md",
-    "02-first-impression/Video/fantasy.mp4.md",
-    "02_presentation_AJ_Krblich.key.md"
+    "02-first-impression/Video/fantasy.mp4.md"
   ]
 }

@@ -19,15 +19,22 @@ There were two things that were in the way - the fact that **I'm a graphic desig
 So I decided to base my tool on web technologies that I understand myself. This also allowed me to make a multi-platform application that can be run on macOS, Windows and Linux.
 
 ## Process
+#### Main problem
+The main problem is that the applications that users could use for them are not created by the designer, but also the user interface is created by programmers. Because of this, users turn to simple options with minimal features or don't use AI at all.
 #### Research
+The first thing I did was research current products. Here I found the different user interfaces that users are using.
+This was important not only for tweaking bad design decisions, but also for creating new features.
+![example of UI](clip.jpg)
+*an example of Stable Diffusion UI, Automatic1111 webui*
+#### Programming & design
 
-#### Programming
 
-## What i made?
+## What I made?
 
 #### Product
 
 #### Naming & brand
 
 #### Did you spot it?
-vskk video
+![video that show KliK application](images/klik_AI-lab.png)
+*[You can see KliK in the feed of PSCC's instagram!](https://www.instagram.com/p/C522Z7LI3-U/)*
