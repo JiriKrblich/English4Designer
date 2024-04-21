@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-voice-tone-style/04-voice-tone-style.md",
+                "file": "06-thesis/06-thesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-voice-tone-style/04-voice-tone-style.md",
+                "file": "06-thesis/06-thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-voice-tone-style/04-voice-tone-style.md",
+                "file": "06-thesis/06-thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-voice-tone-style/04-voice-tone-style.md"
+                "file": "06-thesis/06-thesis.md"
               }
             }
           }
@@ -148,30 +148,32 @@
   },
   "active": "f065e31e4ed59bd3",
   "lastOpenFiles": [
-    "04-voice-tone-style/04-voice-tone-style-nike.md",
-    "04-voice-tone-style/images/pano.png",
-    "05-storytelling/05-storytelling.md",
-    "04-voice-tone-style/04-voice-tone-style.md",
-    "06-thesis/06-thesis.md",
+    "07-year-in-review/images/typemap.jpeg",
+    "07-year-in-review/images/KliK_april.jpeg",
+    "07-year-in-review/images",
     "06-thesis/presentation/myThesis.pdf",
     "06-thesis/presentation",
-    "06-thesis/images/KliK_logo.png",
-    "06-thesis/images/Novy_selection.jpg",
-    "06-thesis/images/microanimation.png",
-    "06-thesis/images/popisky.jpg",
+    "06-thesis/images/udrzitelnecesko.png",
+    "06-thesis/images/styly.png",
     "06-thesis/images/promptbuilder.png",
+    "06-thesis/images/popisky.jpg",
+    "06-thesis/images/microanimation.png",
+    "06-thesis/images/klik_AI-lab.png",
     "06-thesis/images/importance.png",
-    "06-thesis/images/KliK_designSystem_barevnost2.png",
-    "06-thesis/images/KliK_designSystem_glyphs.png",
-    "04-voice-tone-style/images/pretendard_symboly.png",
-    "07-year-in-review/07-year-in-review.md",
-    "2024-04-21.md",
+    "06-thesis/images/controlnet.jpg",
+    "06-thesis/images/Novy_selection.jpg",
+    "06-thesis/images",
     "05-storytelling/presentation/storytelling.pdf",
     "05-storytelling/presentation",
-    "06-thesis/images",
+    "04-voice-tone-style/04-voice-tone-style-nike.md",
+    "04-voice-tone-style/04-voice-tone-style-example.md",
+    "04-voice-tone-style/04-voice-tone-style.md",
+    "05-storytelling/05-storytelling.md",
+    "06-thesis/06-thesis.md",
+    "07-year-in-review/07-year-in-review.md",
+    "2024-04-21.md",
     "03-content-first.md",
     "About.md",
-    "07-year-in-review/images",
     "03-content-first/Portfolio.md",
     "05-storytelling/images",
     "04-voice-tone-style/images",
@@ -191,7 +193,6 @@
     "About-Me.md",
     "01-one-word/Graphic_desiger_03.gif.md",
     "video/Video/NowOrNever.mp4.md",
-    "02-first-impression/Video/IMG_3857.jpeg.md",
-    "02-first-impression/Video/fantasy.mp4.md"
+    "02-first-impression/Video/IMG_3857.jpeg.md"
   ]
 }
