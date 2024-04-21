@@ -36,7 +36,7 @@ For this application I have designed my own design system, which is created to w
 
 Part of this design system and the creation of new features included the process of creating new icons.
 ![screenshot of klik](images/KliK_designSystem_glyphs.png)
-*some of icons from design system*
+*Some of icons from design system*
 
 And of course, it was important to come up with a colour palette that would be used in the app.
 ![screenshot of klik](images/KliK_designSystem_barevnost2.png)
