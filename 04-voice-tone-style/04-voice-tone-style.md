@@ -24,4 +24,4 @@ Although I add fun, there is always just a little bit of it, the important thing
 Text styling using **bold** or *italics* cuts is a basic text modification that can be used across apps and emails, so why not use it! 
 #### Use glyphs and technologies from used font
 Fonts contain various symbols such as an arrow or a heart, why not use those too? It's personal and nobody does it.
-![example of glyphs in font](images/buildInGlyphs.jpg)If there is a use of variable font, *why not animate the axes*?
+![example of glyphs in font](images/pretendard_symboly.png)If there is a use of variable font, *why not animate the axes*?
