@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-storytelling/05-storytelling.md",
+                "file": "04-voice-tone-style/04-voice-tone-style.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-storytelling/05-storytelling.md",
+                "file": "04-voice-tone-style/04-voice-tone-style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-storytelling/05-storytelling.md",
+                "file": "04-voice-tone-style/04-voice-tone-style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-storytelling/05-storytelling.md"
+                "file": "04-voice-tone-style/04-voice-tone-style.md"
               }
             }
           }
@@ -148,41 +148,42 @@
   },
   "active": "f065e31e4ed59bd3",
   "lastOpenFiles": [
-    "07-year-in-review/07-year-in-review.md",
-    "06-thesis/06-thesis.md",
+    "04-voice-tone-style/04-voice-tone-style-nike.md",
+    "04-voice-tone-style/images/pano.png",
     "05-storytelling/05-storytelling.md",
-    "05-storytelling/images/macfonts.png",
-    "05-storytelling/images/badkerning.png",
-    "05-storytelling/images/Fontsinuse.png",
-    "05-storytelling/images/library.png",
-    "05-storytelling/images/firsttypeface.png",
-    "05-storytelling/images",
     "04-voice-tone-style/04-voice-tone-style.md",
-    "04-voice-tone-style/04-voice-tone-style-example.md",
-    "04-voice-tone-style/images/buildInGlyphs.jpg",
+    "06-thesis/06-thesis.md",
+    "06-thesis/presentation/myThesis.pdf",
+    "06-thesis/presentation",
+    "06-thesis/images/KliK_logo.png",
+    "06-thesis/images/Novy_selection.jpg",
+    "06-thesis/images/microanimation.png",
+    "06-thesis/images/popisky.jpg",
+    "06-thesis/images/promptbuilder.png",
+    "06-thesis/images/importance.png",
+    "06-thesis/images/KliK_designSystem_barevnost2.png",
+    "06-thesis/images/KliK_designSystem_glyphs.png",
+    "04-voice-tone-style/images/pretendard_symboly.png",
+    "07-year-in-review/07-year-in-review.md",
+    "2024-04-21.md",
+    "05-storytelling/presentation/storytelling.pdf",
+    "05-storytelling/presentation",
+    "06-thesis/images",
+    "03-content-first.md",
+    "About.md",
+    "07-year-in-review/images",
+    "03-content-first/Portfolio.md",
+    "05-storytelling/images",
     "04-voice-tone-style/images",
     "index.md",
-    "About.md",
     "README.md",
-    "03-content-first.md",
     "07-year-in-review",
     "06-thesis",
-    "05-storytelling",
-    "04-voice-tone-style",
     "01-one-word/01-one-word.md",
     "01-one-word/01-one-word_first-draft.md",
     "01-one-word/01-one-word_revision.md",
-    "01-one-word/Graphic_designer_03.gif",
-    "03-content-first/Portfolio.md",
     "02-first-impression/02-first-impression.md",
-    "znacka_02.png",
     "03-content-first/Writing.md",
-    "03-content-first/static/Artboard1.png",
-    "03-content-first/static/IMG_2141.jpg",
-    "03-content-first/static/KNYY_â_Fantasy_(Trailer).mp4",
-    "03-content-first/Video/NowOrNever.mp4",
-    "03-content-first/Video/IMG_3879.mp4",
-    "03-content-first/Video/IMG_3879.mov",
     "static/Artboard1.png.md",
     "03-content-first/02-first-impression.md",
     "03-content-first/Portoflio.md",
@@ -191,7 +192,6 @@
     "01-one-word/Graphic_desiger_03.gif.md",
     "video/Video/NowOrNever.mp4.md",
     "02-first-impression/Video/IMG_3857.jpeg.md",
-    "02-first-impression/Video/fantasy.mp4.md",
-    "02_presentation_AJ_Krblich.key.md"
+    "02-first-impression/Video/fantasy.mp4.md"
   ]
 }
