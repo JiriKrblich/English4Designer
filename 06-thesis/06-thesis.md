@@ -61,9 +61,15 @@ Or this tool called PromptBuilder. PromptBuilder allows unfamiliar users to crea
 ![screenshot of klik](images/Novy_selection.jpg)
 There is also quick selection tool for quick improvements.
 #### Naming & brand
+As you may know, some artists and designers do not approve of using AI. Maybe it's also because the tools don't feel friendly. This is also the reason why I named the App **KliK**, which sounds the same as the English Click and is a translation.
+![Logo of klik](images/KliK_logo.png)
+*Logo of KliK*
 
+For the visual identity, a visual style was designed that shows in 3D how to use the application.
+![visual language](images/3DRender_01.jpg)
+*Showcase of visual language*
 
-![screenshot of klik](images/3DRender_01.jpg)
+This visual style is also shown in a separate application, for example as a tooltip.
 ![screenshot of klik](images/popisky.jpg)
 #### Did you spot it?
 ![video that show KliK application](images/klik_AI-lab.png)
