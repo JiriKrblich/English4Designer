@@ -28,8 +28,6 @@ This was important not only for tweaking bad design decisions, but also for crea
 *an example of Stable Diffusion UI, Automatic1111 webui*
 ![terribly looking controlnet panelI](controlnet.jpg)
 *a terribly looking ControlNet panel*
-#### Programming & design
-
 
 ## What I made?
 
@@ -45,16 +43,28 @@ And of course, it was important to come up with a colour palette that would be u
 *Color pallete of design system*
 
 It was chosen to not only be neutral, but to handle both light and dark modes.
+
+![screenshot of klik](images/microanimation.png)
+The whole UI is full of micro animations that give the user a better feeling of interaction.
+
 #### Product
 The result of my work is a functional frontend for Stable Diffusion, which has advanced features for generating and editing images.
 ![screenshot of klik](images/styly.png)
 *ScreenShot of KliK*
 
 As you can see, the UI is familiar, but there are lot of features that your favorite app does not have.
+![screenshot of klik](images/importance.png)
+Like this slider, which sets the importance of a part of the prompt.
+![screenshot of klik](images/promptbuilder.png)
+Or this tool called PromptBuilder. PromptBuilder allows unfamiliar users to create prompts. 
 
+![screenshot of klik](images/Novy_selection.jpg)
+There is also quick selection tool for quick improvements.
 #### Naming & brand
 
+
 ![screenshot of klik](images/3DRender_01.jpg)
+![screenshot of klik](images/popisky.jpg)
 #### Did you spot it?
 ![video that show KliK application](images/klik_AI-lab.png)
 *[You can see KliK in the feed of PSCC's instagram!](https://www.instagram.com/p/C522Z7LI3-U/)*
