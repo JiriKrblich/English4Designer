@@ -1,5 +1,7 @@
 # Thesis
 
+[offline](presentation/myThesis.pdf)
+
 ## Introduction
 As you know, I'm a little nerdy. And that's why, before the end of last school year, I came up with the idea of creating a new user interface for AI generating images.
 
@@ -74,3 +76,5 @@ This visual style is also shown in a separate application, for example as a tool
 #### Did you spot it?
 ![video that show KliK application](images/klik_AI-lab.png)
 *[You can see KliK in the feed of PSCC's instagram!](https://www.instagram.com/p/C522Z7LI3-U/)*
+
+So what is the future of AI? #LessTextMoreKlik!

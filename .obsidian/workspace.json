@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-thesis/06-thesis.md",
+                "file": "04-voice-tone-style/04-voice-tone-style-example.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-thesis/06-thesis.md",
+                "file": "04-voice-tone-style/04-voice-tone-style-example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06-thesis/06-thesis.md",
+                "file": "04-voice-tone-style/04-voice-tone-style-example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-thesis/06-thesis.md"
+                "file": "04-voice-tone-style/04-voice-tone-style-example.md"
               }
             }
           }
@@ -148,22 +148,23 @@
   },
   "active": "f065e31e4ed59bd3",
   "lastOpenFiles": [
+    "05-storytelling/05-storytelling.md",
+    "04-voice-tone-style/04-voice-tone-style.md",
+    "06-thesis/06-thesis.md",
+    "06-thesis/presentation/myThesis.pdf",
+    "06-thesis/presentation",
     "06-thesis/images/KliK_logo.png",
     "06-thesis/images/Novy_selection.jpg",
     "06-thesis/images/microanimation.png",
     "06-thesis/images/popisky.jpg",
     "06-thesis/images/promptbuilder.png",
     "06-thesis/images/importance.png",
-    "06-thesis/06-thesis.md",
     "06-thesis/images/KliK_designSystem_barevnost2.png",
     "06-thesis/images/KliK_designSystem_glyphs.png",
-    "04-voice-tone-style/04-voice-tone-style.md",
     "04-voice-tone-style/images/pretendard_symboly.png",
     "04-voice-tone-style/images/buildInGlyphs.jpg",
     "04-voice-tone-style/04-voice-tone-style-example.md",
-    "06-thesis/images/3DRender_01.jpg",
     "07-year-in-review/07-year-in-review.md",
-    "05-storytelling/05-storytelling.md",
     "2024-04-21.md",
     "05-storytelling/presentation/storytelling.pdf",
     "05-storytelling/presentation",
@@ -178,7 +179,6 @@
     "README.md",
     "07-year-in-review",
     "06-thesis",
-    "05-storytelling",
     "01-one-word/01-one-word.md",
     "01-one-word/01-one-word_first-draft.md",
     "01-one-word/01-one-word_revision.md",

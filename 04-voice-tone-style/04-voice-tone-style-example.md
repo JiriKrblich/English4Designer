@@ -1,1 +1,1 @@
-# Analyze of my favorite brand
+# Analyze of brand

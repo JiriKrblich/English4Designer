@@ -1,7 +1,7 @@
 # Headline (Storytelling)
 
 Formats:
-![Offline](presentation/storytelling.pdf) 
+[Offline](presentation/storytelling.pdf) 
 
 ## Introduction
 We all have a hobby or obsession that we enjoy. Someone collects stamps, someone collects lego sets. I collect fonts, and I'd call it a mania. Why? You'll find out in this storytelling.
