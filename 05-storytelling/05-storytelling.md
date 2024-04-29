@@ -1,9 +1,10 @@
 # Headline (Storytelling)
 
-Formats:\
-video (will be added)\
-audio (will be added)\
-[Presentation](presentation/storytelling.pdf)
+
+[presentation](presentation/storytelling.pdf)\
+[video](video/storytelling.mp4)\
+[audio](Audio/storytelling.mp3)
+
 
 ## Introduction
 We all have a hobby or obsession that we enjoy. Someone collects stamps, someone collects lego sets. I collect fonts, and I'd call it a mania. Why? You'll find out in this storytelling.

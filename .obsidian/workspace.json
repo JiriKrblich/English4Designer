@@ -4,19 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9919a76369e0d114",
+        "id": "e00adbd3002e91cb",
         "type": "tabs",
         "children": [
           {
-            "id": "f065e31e4ed59bd3",
+            "id": "db7283d5063ee2f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-thesis/06-thesis.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -85,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-thesis/06-thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,31 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06-thesis/06-thesis.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "20e53358b10cd1a2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "fe0d4e1d0888fe92",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "06-thesis/06-thesis.md"
-              }
+
             }
           }
         ]
@@ -146,8 +115,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f065e31e4ed59bd3",
+  "active": "db7283d5063ee2f9",
   "lastOpenFiles": [
+
+    "05-storytelling/05-storytelling.md",
+    "06-thesis/06-thesis.md",
+    "05-storytelling/presentation/storytelling.pdf",
     "05-storytelling/05-storytelling.md",
     "04-voice-tone-style/04-voice-tone-style-nike.md",
     "06-thesis/06-thesis.md",
@@ -155,8 +128,7 @@
     "07-year-in-review/images/typemap.jpeg",
     "07-year-in-review/images/KliK_april.jpeg",
     "07-year-in-review/images",
-    "06-thesis/presentation/myThesis.pdf",
-    "06-thesis/presentation",
+
     "06-thesis/images/udrzitelnecesko.png",
     "06-thesis/images/styly.png",
     "06-thesis/images/promptbuilder.png",
@@ -164,9 +136,7 @@
     "06-thesis/images/microanimation.png",
     "06-thesis/images/klik_AI-lab.png",
     "06-thesis/images/importance.png",
-    "06-thesis/images",
-    "05-storytelling/presentation/storytelling.pdf",
-    "05-storytelling/presentation",
+
     "04-voice-tone-style/04-voice-tone-style-example.md",
     "04-voice-tone-style/04-voice-tone-style.md",
     "07-year-in-review/07-year-in-review.md",
@@ -174,12 +144,8 @@
     "03-content-first.md",
     "About.md",
     "03-content-first/Portfolio.md",
-    "05-storytelling/images",
-    "04-voice-tone-style/images",
     "index.md",
     "README.md",
-    "07-year-in-review",
-    "06-thesis",
     "01-one-word/01-one-word.md",
     "01-one-word/01-one-word_first-draft.md",
     "01-one-word/01-one-word_revision.md",
