@@ -11,17 +11,6 @@
             "id": "db7283d5063ee2f9",
             "type": "leaf",
             "state": {
-<<<<<<< Updated upstream
-              "type": "empty",
-              "state": {}
-=======
-              "type": "markdown",
-              "state": {
-                "file": "06-thesis/06-thesis.md",
-                "mode": "source",
-                "source": false
-              }
->>>>>>> Stashed changes
             }
           }
         ]
@@ -90,10 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "06-thesis/06-thesis.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,38 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "06-thesis/06-thesis.md",
->>>>>>> Stashed changes
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "20e53358b10cd1a2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "fe0d4e1d0888fe92",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-<<<<<<< Updated upstream
-              "state": {}
-=======
-              "state": {
-                "file": "06-thesis/06-thesis.md"
-              }
->>>>>>> Stashed changes
+
             }
           }
         ]
@@ -163,28 +117,18 @@
   },
   "active": "db7283d5063ee2f9",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "06-thesis/video/thesis.mp4",
-    "06-thesis/video",
-    "06-thesis/audio/thesis.mp3",
-    "06-thesis/audio",
-    "05-storytelling/video/storytelling.mp4",
-    "05-storytelling/video",
-    "05-storytelling/Audio/storytelling.mp3",
-    "05-storytelling/Audio",
-=======
-    "04-voice-tone-style/04-voice-tone-style.md",
-    "04-voice-tone-style/04-voice-tone-style-nike.md",
-    "04-voice-tone-style/images/pano.png",
->>>>>>> Stashed changes
+
     "05-storytelling/05-storytelling.md",
     "06-thesis/06-thesis.md",
     "05-storytelling/presentation/storytelling.pdf",
+    "05-storytelling/05-storytelling.md",
     "04-voice-tone-style/04-voice-tone-style-nike.md",
+    "06-thesis/06-thesis.md",
     "06-thesis/images/Clip.jpg",
     "07-year-in-review/images/typemap.jpeg",
     "07-year-in-review/images/KliK_april.jpeg",
     "07-year-in-review/images",
+
     "06-thesis/images/udrzitelnecesko.png",
     "06-thesis/images/styly.png",
     "06-thesis/images/promptbuilder.png",
@@ -192,6 +136,7 @@
     "06-thesis/images/microanimation.png",
     "06-thesis/images/klik_AI-lab.png",
     "06-thesis/images/importance.png",
+
     "04-voice-tone-style/04-voice-tone-style-example.md",
     "04-voice-tone-style/04-voice-tone-style.md",
     "07-year-in-review/07-year-in-review.md",
