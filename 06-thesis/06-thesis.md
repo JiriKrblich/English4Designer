@@ -1,7 +1,8 @@
 # Thesis
 
-Formats:
-video (will be added)
+Formats:\
+video (will be added)\
+audio (will be added)\
 [offline](presentation/myThesis.pdf)
 
 ## Introduction

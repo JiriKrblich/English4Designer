@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-voice-tone-style/04-voice-tone-style-nike.md",
+                "file": "06-thesis/06-thesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-voice-tone-style/04-voice-tone-style-nike.md",
+                "file": "06-thesis/06-thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-voice-tone-style/04-voice-tone-style-nike.md",
+                "file": "06-thesis/06-thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-voice-tone-style/04-voice-tone-style-nike.md"
+                "file": "06-thesis/06-thesis.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "f065e31e4ed59bd3",
   "lastOpenFiles": [
     "05-storytelling/05-storytelling.md",
+    "04-voice-tone-style/04-voice-tone-style-nike.md",
     "06-thesis/06-thesis.md",
     "06-thesis/images/Clip.jpg",
     "07-year-in-review/images/typemap.jpeg",
@@ -166,7 +167,6 @@
     "06-thesis/images",
     "05-storytelling/presentation/storytelling.pdf",
     "05-storytelling/presentation",
-    "04-voice-tone-style/04-voice-tone-style-nike.md",
     "04-voice-tone-style/04-voice-tone-style-example.md",
     "04-voice-tone-style/04-voice-tone-style.md",
     "07-year-in-review/07-year-in-review.md",
