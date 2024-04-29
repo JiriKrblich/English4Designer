@@ -1,7 +1,7 @@
 # Thesis
 
 Formats:\
-[presentation](presentation/MyThesis.pdf)\
+[presentation](presentation/myThesis.pdf)\
 [video](video/thesis.mp4)\
 [audio](audio/thesis.mp3)
 
