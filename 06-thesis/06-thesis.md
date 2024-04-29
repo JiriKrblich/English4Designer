@@ -1,6 +1,13 @@
 # Thesis
 
+<<<<<<< Updated upstream
 [offline](presentation/myThesis.pdf)
+=======
+Formats:\
+[presentation](presentation/MyThesis.pdf)\
+[video](video/thesis.mp4)\
+[audio](audio/thesis.mp3)
+>>>>>>> Stashed changes
 
 ## Introduction
 As you know, I'm a little nerdy. And that's why, before the end of last school year, I came up with the idea of creating a new user interface for AI generating images.
