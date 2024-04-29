@@ -11,8 +11,17 @@
             "id": "db7283d5063ee2f9",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
               "type": "empty",
               "state": {}
+=======
+              "type": "markdown",
+              "state": {
+                "file": "06-thesis/06-thesis.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -81,6 +90,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "06-thesis/06-thesis.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "06-thesis/06-thesis.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {}
+=======
+              "state": {
+                "file": "06-thesis/06-thesis.md"
+              }
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -140,6 +163,7 @@
   },
   "active": "db7283d5063ee2f9",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "06-thesis/video/thesis.mp4",
     "06-thesis/video",
     "06-thesis/audio/thesis.mp3",
@@ -148,6 +172,11 @@
     "05-storytelling/video",
     "05-storytelling/Audio/storytelling.mp3",
     "05-storytelling/Audio",
+=======
+    "04-voice-tone-style/04-voice-tone-style.md",
+    "04-voice-tone-style/04-voice-tone-style-nike.md",
+    "04-voice-tone-style/images/pano.png",
+>>>>>>> Stashed changes
     "05-storytelling/05-storytelling.md",
     "06-thesis/06-thesis.md",
     "05-storytelling/presentation/storytelling.pdf",

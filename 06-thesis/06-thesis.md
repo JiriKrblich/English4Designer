@@ -33,9 +33,9 @@ The main problem is that the applications that users could use for them are not 
 #### Research
 The first thing I did was research current products. Here I found the different user interfaces that users are using.
 This was important not only for tweaking bad design decisions, but also for creating new features.
-![example of UI](clip.jpg)
+![example of UI](images/clip.jpg)
 *an example of Stable Diffusion UI, Automatic1111 webui*
-![terribly looking controlnet panelI](controlnet.jpg)
+![terribly looking controlnet panelI](images/controlnet.jpg)
 *a terribly looking ControlNet panel*
 
 ## What I made?
