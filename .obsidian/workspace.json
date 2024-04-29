@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-thesis/06-thesis.md",
+                "file": "04-voice-tone-style/04-voice-tone-style-nike.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-thesis/06-thesis.md",
+                "file": "04-voice-tone-style/04-voice-tone-style-nike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06-thesis/06-thesis.md",
+                "file": "04-voice-tone-style/04-voice-tone-style-nike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-thesis/06-thesis.md"
+                "file": "04-voice-tone-style/04-voice-tone-style-nike.md"
               }
             }
           }
@@ -147,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff03365505dad272",
+  "active": "f065e31e4ed59bd3",
   "lastOpenFiles": [
-    "06-thesis/images/Clip.jpg",
+    "05-storytelling/05-storytelling.md",
     "06-thesis/06-thesis.md",
+    "06-thesis/images/Clip.jpg",
     "07-year-in-review/images/typemap.jpeg",
     "07-year-in-review/images/KliK_april.jpeg",
     "07-year-in-review/images",
@@ -163,14 +163,12 @@
     "06-thesis/images/microanimation.png",
     "06-thesis/images/klik_AI-lab.png",
     "06-thesis/images/importance.png",
-    "06-thesis/images/controlnet.jpg",
     "06-thesis/images",
     "05-storytelling/presentation/storytelling.pdf",
     "05-storytelling/presentation",
     "04-voice-tone-style/04-voice-tone-style-nike.md",
     "04-voice-tone-style/04-voice-tone-style-example.md",
     "04-voice-tone-style/04-voice-tone-style.md",
-    "05-storytelling/05-storytelling.md",
     "07-year-in-review/07-year-in-review.md",
     "2024-04-21.md",
     "03-content-first.md",

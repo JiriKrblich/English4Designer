@@ -1,6 +1,7 @@
 # Headline (Storytelling)
 
 Formats:
+video (will be added)
 [Offline](presentation/storytelling.pdf) 
 
 ## Introduction

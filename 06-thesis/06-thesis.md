@@ -1,5 +1,7 @@
 # Thesis
 
+Formats:
+video (will be added)
 [offline](presentation/myThesis.pdf)
 
 ## Introduction
