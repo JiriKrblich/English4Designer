@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-thesis/06-thesis.md",
+                "file": "05-storytelling/05-storytelling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-thesis/06-thesis.md",
+                "file": "05-storytelling/05-storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06-thesis/06-thesis.md",
+                "file": "05-storytelling/05-storytelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-thesis/06-thesis.md"
+                "file": "05-storytelling/05-storytelling.md"
               }
             }
           }
@@ -147,5 +147,8 @@
     }
   },
   "active": "31f49f5e3edafe49",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "index.md",
+    "06-thesis/06-thesis.md"
+  ]
 }

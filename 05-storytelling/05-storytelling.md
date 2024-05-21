@@ -1,6 +1,6 @@
-# Headline (Storytelling)
+# My Type (Storytelling)
 
-
+Formats:\
 [presentation](presentation/storytelling.pdf)\
 [video](video/storytelling.mp4)\
 [audio](Audio/storytelling.mp3)
@@ -9,7 +9,7 @@
 ## Introduction
 We all have a hobby or obsession that we enjoy. Someone collects stamps, someone collects lego sets. I collect fonts, and I'd call it a mania. Why? You'll find out in this storytelling.
 
-## Begginning
+## Beginning
 Where did it begin? We can say that in my early days of digital graphics. Here I thought that the typeface is what sets the direction of the graphic and changes its mood and character.
 ![an example of one of my first downloaded fonts](images/firsttypeface.png)
 *an example of one of my first downloaded fonts (with terrible kerning)*
